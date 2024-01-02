@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://ishika-contact-manager.netlify.app//](https://ishika-contact-manager.netlify.app/) to view it in your browser
+open [https://ishika-contact-app.netlify.app/](https://ishika-contact-app.netlify.app/) to view it in your browser
 
 ## Features
 
